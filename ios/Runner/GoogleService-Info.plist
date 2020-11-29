@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>576775541453-lag0k0ua6nc8u29u35svd840d1ag8nfh.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.576775541453-lag0k0ua6nc8u29u35svd840d1ag8nfh</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBJAsX9YBUzusPp_m6hD2UW2jq0Ik0l-ZE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>576775541453</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.ecommerce</string>
+	<key>PROJECT_ID</key>
+	<string>flutter-varios-f0855</string>
+	<key>STORAGE_BUCKET</key>
+	<string>flutter-varios-f0855.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:576775541453:ios:1462777d5f2358925bcf84</string>
+	<key>DATABASE_URL</key>
+	<string>https://flutter-varios-f0855.firebaseio.com</string>
+</dict>
+</plist>
