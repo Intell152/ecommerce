@@ -40,6 +40,6 @@ class HomePage extends StatelessWidget {
     //     ? _user = bloc.user.toString(): _user = '';
     _user = bloc.user.toString();
 
-    return Text('Holi' + ' ' + _user);
+    return Text('Holis' + ' ' + _user);
   }
 }
